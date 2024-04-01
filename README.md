@@ -1,8 +1,10 @@
 ## Hello, there ✌
 
-My name is Isaac and I am a full-stack web developer from São Fidélis, Rio de Janeiro. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same). I'm currently working at [OneBitCode](https://www.instagram.com/onebitcode/) as instructor and full-stack developer.
+My name is Lohan and I am a full-stack web developer from Santo André, São Paulo, Brazil. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same). 
+-🔭 I’m currently working on freelancer
+-🌱 I'm currently studying programming at [OneBitCode](https://www.instagram.com/onebitcode/)
 
-<!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5522996057593), [Telegram](https://t.me/isaacpontes_dev) or [email](mailto:contato@isaacpontes.dev.br) -->
+<!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511991168134), [Telegram](https://t.me/LohanFelipe) or [email](mailto:lohanfelipe@hotmail.com) -->
 
 
 <a href="#">
@@ -19,23 +21,16 @@ In the front-end
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
+
 
 In the back-end:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
-![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/-Laravel-232323?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 
 <!-- And in general:

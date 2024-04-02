@@ -1,7 +1,8 @@
 ## Hello, there ✌
 
-My name is Lohan and I am a full-stack web developer from Santo André, São Paulo, Brazil. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same). 
--🔭 I’m currently working on freelancer
+My name is Lohan and I am a full-stack web developer from Santo André, São Paulo, Brazil. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking presentable on every device (and to teach others how to do the same).
+
+-🔭 I’m currently working as freelancer
 -🌱 I'm currently studying programming at [OneBitCode](https://www.instagram.com/onebitcode/)
 
 <!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511991168134), [Telegram](https://t.me/LohanFelipe) or [email](mailto:lohanfelipe@hotmail.com) -->
